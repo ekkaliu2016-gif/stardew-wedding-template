@@ -13,7 +13,7 @@ const weddingConfig = {
   calendarYear: '2026',
   venue: '江苏省连云港市',
   venueShort: '云台宾馆星露谷宴会厅',
-  navigationUrl: 'https://uri.amap.com/search?keyword=%E7%A4%BA%E4%BE%8B%E5%B8%82%E5%B9%B8%E7%A6%8F%E5%8C%BA%E6%98%9F%E9%9C%B2%E8%B0%B7%E5%AE%B4%E4%BC%9A%E5%8E%85&src=stardew-wedding&callnative=1',
+  navigationUrl: 'https://uri.amap.com/search?keyword=<https://surl.amap.com/17yibZo151fz>&src=stardew-wedding&callnative=1',
   schedule: [
     { label: '签到', time: '10:00', description: '领取今日任务，与老朋友相见' },
     { label: '仪式', time: '12:00', description: '见证拥抱、誓言与交换戒指' },
